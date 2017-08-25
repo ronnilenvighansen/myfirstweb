@@ -1,0 +1,20 @@
+{
+  "name": "myfirstwebserver",
+  "version": "1.0.0",
+  "description": "bla bblla",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronnilenvighansen/myfirstweb.git"
+  },
+  "author": "ronni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronnilenvighansen/myfirstweb/issues"
+  },
+  "homepage": "https://github.com/ronnilenvighansen/myfirstweb#readme"
+}
